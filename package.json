@@ -1,0 +1,10 @@
+{
+  "name": "pagespeed-cache-flush",
+  "description": "Utility to automatically flush Nginx Page Speed cache, when changes in source files are detected",
+  "version": "0.0.1",
+  "private": false,
+  "dependencies": {
+    "chokidar": "~0.9.0",
+    "glob": "~4.0.6"
+  }
+}
